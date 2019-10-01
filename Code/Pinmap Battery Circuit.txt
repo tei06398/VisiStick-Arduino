@@ -1,0 +1,7 @@
+Wall Plug -> USB C BoB -|					|-Battery via JST Connector
+			-VBUS @ 5V 	-VCC on USB mB BoB	-
+			-GND		-GND on USB mB BoB	-
+								|-Charger GND to Switch GND	-Switch MID to LiPower +	-LiPower + to Arduino GND
+								|-Charger BAT to Switch Vin	-Switch L/R to LiPower -	-LiPower - to Arduino Vin
+
+Figure Out Bluefruit LE Pinning for Next

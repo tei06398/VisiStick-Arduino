@@ -1,0 +1,30 @@
+D0/RX -> TXD on BTBoard
+D1/TX -> RXD on BTBoard
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+D10
+D11
+D12
+D13
+GND
+AREF
+
+IOREF
+RESET
+3.3V -> VCC on BTBoard
+5V -> Red Wire on LIDAR
+GND -> GND on BTBoard
+GND -> Black Wire on LIDAR
+Vin
+A0 -> Yellow Wire on LIDAR
+A1
+A2
+A3
+A4
+A5
